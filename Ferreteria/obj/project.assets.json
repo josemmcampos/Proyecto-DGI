@@ -1,0 +1,166 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Acceso/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Entidad": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Acceso.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Acceso.dll": {}
+        }
+      },
+      "BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Data": "1.0.0",
+          "Entidad": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BL.dll": {}
+        }
+      },
+      "Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Acceso": "1.0.0",
+          "Entidad": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
+        }
+      },
+      "Entidad/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Entidad.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Acceso/1.0.0": {
+      "type": "project",
+      "path": "../Acceso/Acceso.csproj",
+      "msbuildProject": "../Acceso/Acceso.csproj"
+    },
+    "BL/1.0.0": {
+      "type": "project",
+      "path": "../BL/BL.csproj",
+      "msbuildProject": "../BL/BL.csproj"
+    },
+    "Data/1.0.0": {
+      "type": "project",
+      "path": "../Data/Data.csproj",
+      "msbuildProject": "../Data/Data.csproj"
+    },
+    "Entidad/1.0.0": {
+      "type": "project",
+      "path": "../Entidad/Entidad.csproj",
+      "msbuildProject": "../Entidad/Entidad.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BL >= 1.0.0",
+      "Entidad >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jmmc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\Ferreteria\\Ferreteria.csproj",
+      "projectName": "Ferreteria",
+      "projectPath": "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\Ferreteria\\Ferreteria.csproj",
+      "packagesPath": "C:\\Users\\Jmmc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\Ferreteria\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Jmmc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\BL\\BL.csproj"
+            },
+            "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\Entidad\\Entidad.csproj": {
+              "projectPath": "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\Entidad\\Entidad.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

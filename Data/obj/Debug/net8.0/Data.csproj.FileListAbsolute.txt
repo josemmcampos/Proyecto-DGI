@@ -1,0 +1,17 @@
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\bin\Debug\net8.0\Data.dll
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\bin\Debug\net8.0\Acceso.dll
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\bin\Debug\net8.0\Entidad.dll
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\bin\Debug\net8.0\Acceso.pdb
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\bin\Debug\net8.0\Entidad.pdb
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\obj\Debug\net8.0\Data.dll
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\Jmmc\Videos\CR7\FerreteriaCR7\Data\obj\Debug\net8.0\ref\Data.dll

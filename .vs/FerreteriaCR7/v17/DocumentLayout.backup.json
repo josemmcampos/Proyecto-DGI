@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97FA2757-349E-4F3C-8E31-7554B4E2EAAB}|Ferreteria\\Ferreteria.csproj|c:\\users\\jmmc\\videos\\cr7\\ferreteriacr7\\ferreteria\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FA2757-349E-4F3C-8E31-7554B4E2EAAB}|Ferreteria\\Ferreteria.csproj|solutionrelative:ferreteria\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FA2757-349E-4F3C-8E31-7554B4E2EAAB}|Ferreteria\\Ferreteria.csproj|c:\\users\\jmmc\\videos\\cr7\\ferreteriacr7\\ferreteria\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97FA2757-349E-4F3C-8E31-7554B4E2EAAB}|Ferreteria\\Ferreteria.csproj|solutionrelative:ferreteria\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FA2757-349E-4F3C-8E31-7554B4E2EAAB}|Ferreteria\\Ferreteria.csproj|c:\\users\\jmmc\\videos\\cr7\\ferreteriacr7\\ferreteria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97FA2757-349E-4F3C-8E31-7554B4E2EAAB}|Ferreteria\\Ferreteria.csproj|solutionrelative:ferreteria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\Ferreteria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ferreteria\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\Ferreteria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ferreteria\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAMjMzMzMLwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T04:05:25.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\Ferreteria\\Views\\Empleado\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ferreteria\\Views\\Empleado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\Ferreteria\\Views\\Empleado\\Index.cshtml",
+              "RelativeToolTip": "Ferreteria\\Views\\Empleado\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T04:04:13.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\Ferreteria\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "Ferreteria\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Jmmc\\Videos\\CR7\\FerreteriaCR7\\Ferreteria\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "Ferreteria\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T03:57:36.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
